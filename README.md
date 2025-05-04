@@ -57,7 +57,30 @@ The [`requirements.txt`](https://github.com/dec1costello/MLB/blob/main/requireme
 pip install -r requirements.txt
 ```
 
+## **EDA & Feature Engineering**
 
+Here I explore pybaseball's 2024 data to observe relationshops of BBIP.
+
+<div align="center">
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/4c07d112-47c7-4fa5-9a1b-249b338a6c9c" />
+      </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/82601909-3f65-4d88-af66-38b260835ed1" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+#### Key Insights
+
+* Along with Pull% and Launch Angle, it was interesting to see how speed off the bat relative to pitch speed can further seperate a batter from the field.
 
 
 ## **Drag Coefficient**
