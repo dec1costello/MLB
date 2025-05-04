@@ -52,7 +52,10 @@ This repo is organized as follows:
 
 The [`requirements.txt`](https://github.com/dec1costello/MLB/blob/main/requirements.txt) text file in the root folder has the exact Python environment I used for this project.  
 * One can try install Python packages I used with the following command:  
-`pip install -r requirements.txt`
+
+```console
+pip install -r requirements.txt
+```
 
 
 
