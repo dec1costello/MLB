@@ -7,6 +7,12 @@ Author: Declan Costello
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dec1costello/MLB/HEAD)
 
 
+<p align="center">
+<img height="150" width="800" src="https://github.com/user-attachments/assets/21161460-244f-49cd-8c18-a1d7cc9fb5d3"/>  
+</p>
+
+<h1 align="center">MLB Analysis</h1>
+
 
 ## **🎯 Objectives**
 
@@ -26,7 +32,3 @@ This repo is organized as follows:
     ├── EDA.ipynb
     ├── FeatureEngineering.ipynb
     └── Drag.ipynb
-
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/1c8725be-829e-4316-b2c7-6092fcbc883f" alt="Event Scatter" style="width:100%">
-</div>
