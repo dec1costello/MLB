@@ -14,6 +14,18 @@ Author: Declan Costello
 
 <h1 align="center">MLB Analysis</h1>
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#Objectives">Objectives</a></li>
+    <li><a href="#Repo-Structure">Repo Structure</a></li>
+    <li><a href="#EDA">EDA</a></li>
+    <li><a href="#Feature-Engineering">Feature Engineering</a></li>
+    <li><a href="#Drag-Coefficient">Drag Coefficient</a></li>
+      <li><a href="#Future-Roadmap">Future Roadmap</a></li>
+  </ol>
+</details>
 
 ## **🎯 Objectives**
 
@@ -35,7 +47,40 @@ This repo is organized as follows:
     ├── FeatureEngineering.ipynb
     └── Drag.ipynb
 
-## 🗺️ Future Roadmap
+## **Dependencies**
+
+The [`requirements.txt`](https://github.com/dec1costello/MLB/blob/main/requirements.txt) text file in the root folder has the exact Python environment I used for this project.  
+* One can try install Python packages I used with the following command:  
+`pip install -r requirements.txt`
+
+
+
+
+## **Notebook 3: Drag Coefficient**
+
+Inspired by ["Simplified Models for the Drag Coefficient of a Pitched Baseball" by David Kagan & Alan M. Nathan](http://baseball.physics.illinois.edu/DragTPTMay2014.pdf), this notebook observes how tempurature, humidity, and air pressure affect the drag coefficient.
+
+<div align="center">
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/dec1costello/Baseball/blob/main/Physics/Coefficient_of_a_Pitched_Baseball.ipynb">
+          <img src="https://github.com/dec1costello/Baseball/assets/79241861/e7d22b62-a499-4bb9-ace4-9160067273bb" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/dec1costello/Baseball/blob/main/Physics/Coefficient_of_a_Pitched_Baseball.ipynb">
+          <img src="https://github.com/dec1costello/Baseball/assets/79241861/0ff2de04-7370-4b1e-bde4-a3c8549873b1" alt="WOBA Heatmap" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
 
 <!-- ROADMAP -->
 ## 🗺️ Future Roadmap
