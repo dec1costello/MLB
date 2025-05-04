@@ -27,7 +27,8 @@ This repo is organized as follows:
 
     📂 TOUR-Championship-Strokes-Gained-Analysis 📍
     │
-    ├── README.md
+    ├── README.md 
+    ├── requirements.txt
     │
     ├── EDA.ipynb
     ├── FeatureEngineering.ipynb
