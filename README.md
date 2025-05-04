@@ -67,10 +67,10 @@ Inspired by ["Simplified Models for the Drag Coefficient of a Pitched Baseball" 
   <tbody>
     <tr>
       <td>
-        <img src="https://github.com/dec1costello/Baseball/assets/79241861/e7d22b62-a499-4bb9-ace4-9160067273bb" />
+        <img src="https://github.com/user-attachments/assets/4c07d112-47c7-4fa5-9a1b-249b338a6c9c" />
       </td>
       <td>
-        <img src="https://github.com/dec1costello/Baseball/assets/79241861/0ff2de04-7370-4b1e-bde4-a3c8549873b1" alt="WOBA Heatmap" />
+        <img src="https://github.com/dec1costello/Baseball/assets/79241861/0ff2de04-7370-4b1e-bde4-a3c8549873b1" />
       </td>
     </tr>
   </tbody>
