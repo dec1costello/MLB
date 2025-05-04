@@ -60,7 +60,7 @@ pip install -r requirements.txt
 
 
 
-## **Notebook 3: Drag Coefficient**
+## **Drag Coefficient**
 
 Inspired by ["Simplified Models for the Drag Coefficient of a Pitched Baseball" by David Kagan & Alan M. Nathan](http://baseball.physics.illinois.edu/DragTPTMay2014.pdf), [this notebook](https://nbviewer.org/github/dec1costello/MLB/blob/main/Drag.ipynb) observes how tempurature, humidity, and air pressure affect the drag coefficient of a moving baseball.
 
