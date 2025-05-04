@@ -20,6 +20,7 @@ Author: Declan Costello
   <ol>
     <li><a href="#Objectives">Objectives</a></li>
     <li><a href="#Repo-Structure">Repo Structure</a></li>
+       <li><a href="#Dependencies">Dependencies</a></li>
     <li><a href="#EDA">EDA</a></li>
     <li><a href="#Feature-Engineering">Feature Engineering</a></li>
     <li><a href="#Drag-Coefficient">Drag Coefficient</a></li>
@@ -27,14 +28,14 @@ Author: Declan Costello
   </ol>
 </details>
 
-## **🎯 Objectives**
+## **Objectives**
 
 Welcome to my analysis of the 2024 MLB Season, the primary objective of this project is to:
 > **Provide value to the baseball community!**
 
 I hope to contribute meaningful insights to the baseball community through this project. I encourage you to check out the js visuals on [NBViewer](https://nbviewer.org/github/dec1costello/MLB/tree/main/)!
 
-## **🌵 Repo Structure**
+## **Repo Structure**
 
 This repo is organized as follows:
 
