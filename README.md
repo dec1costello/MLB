@@ -83,7 +83,7 @@ Inspired by ["Simplified Models for the Drag Coefficient of a Pitched Baseball" 
 
 #### Key Insights
 
-* With MLB now mandating humidors to standardize ball quality, Dr. Nathan's research made me wonder whether the league might one day adjust seam height by altitude as another way to level the playing field.
+* With MLB now mandating humidors to standardize ball quality, Dr. Nathan's research made me wonder whether the league might one day adjust seam height by stadium altitude as another way to level the playing field.
 
 
 <!-- ROADMAP -->
