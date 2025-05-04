@@ -83,7 +83,7 @@ Inspired by ["Simplified Models for the Drag Coefficient of a Pitched Baseball" 
 
 
 <!-- ROADMAP -->
-## 🗺️ Future Roadmap
+## **Future Roadmap**
 
 - [ ] TODO
     - [ ] [Pitch sequencing](https://mesa.readthedocs.io/latest/)
