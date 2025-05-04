@@ -70,7 +70,7 @@ Inspired by ["Simplified Models for the Drag Coefficient of a Pitched Baseball" 
         <img src="https://github.com/user-attachments/assets/4c07d112-47c7-4fa5-9a1b-249b338a6c9c" />
       </td>
       <td>
-        <img src="https://github.com/dec1costello/Baseball/assets/79241861/0ff2de04-7370-4b1e-bde4-a3c8549873b1" />
+        <img src="https://github.com/user-attachments/assets/82601909-3f65-4d88-af66-38b260835ed1" />
       </td>
     </tr>
   </tbody>
