@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 [GitHub](https://github.com/dec1costello) | [Kaggle](https://www.kaggle.com/dec1costello) | [LinkedIn](https://www.linkedin.com/in/declan-costello-7423aa137/)
 <br />
 Author: Declan Costello
@@ -33,3 +34,15 @@ This repo is organized as follows:
     ├── EDA.ipynb
     ├── FeatureEngineering.ipynb
     └── Drag.ipynb
+
+## 🗺️ Future Roadmap
+
+<!-- ROADMAP -->
+## 🗺️ Future Roadmap
+
+- [ ] TODO
+    - [ ] [Pitch sequencing](https://mesa.readthedocs.io/latest/)
+    - [ ] Spray by pitch location
+    - [ ] Fastball take approach by x axis
+     
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
