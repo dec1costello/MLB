@@ -17,7 +17,7 @@ Author: Declan Costello
 ## **🎯 Objectives**
 
 Welcome to my analysis of the 2024 MLB Season, the primary objective of this project is to:
-> **provide value to the baseball community**
+> **Provide value to the baseball community!**
 
 I hope to contribute meaningful insights to the baseball community through this project. I encourage you to check out the js visuals on [NBViewer](https://nbviewer.org/github/dec1costello/MLB/tree/main/)!
 
