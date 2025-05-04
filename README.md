@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 ## **EDA & Feature Engineering**
 
-Here I explore pybaseball's 2024 data to observe relationshops of BBIP.
+Here I explore pybaseball's 2024 data to observe relationships of BBIP.
 
 <div align="center">
 
