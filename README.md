@@ -2,9 +2,9 @@
 <br />
 Author: Declan Costello
 <br />
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dec1costello/TOUR-Championship-Strokes-Gained-Analysis)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dec1costello/MLB)
 <br />
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dec1costello/TOUR-Championship-Strokes-Gained-Analysis/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dec1costello/MLB/HEAD)
 
 
 
