@@ -70,7 +70,7 @@ Here I explore pybaseball's 2024 data to observe relationshops of BBIP.
         <img src="https://github.com/user-attachments/assets/4c07d112-47c7-4fa5-9a1b-249b338a6c9c" />
       </td>
       <td>
-        <img src="https://github.com/user-attachments/assets/82601909-3f65-4d88-af66-38b260835ed1" />
+        <img src="https://github.com/user-attachments/assets/197e9b70-7de5-4352-abda-8f41c259ee99" />
       </td>
     </tr>
   </tbody>
